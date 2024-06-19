@@ -10,4 +10,6 @@ public class ByeController {
     public String bye() {
         return "bye everyone";
     }
+
+
 }
